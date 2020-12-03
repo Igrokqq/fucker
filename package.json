@@ -1,6 +1,6 @@
 {
   "name": "fucker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides data generating & seeding to your db :D",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "repository": {
     "name": "wimmmly",
     "email": "wimmmly@gmail.com",
-    "url": "https://github.com/Igrokqq/fucker"
+    "url": "git+https://github.com/Igrokqq/fucker.git"
   },
   "homepage": "https://github.com/Igrokqq/fucker",
   "author": "wimmmly",
@@ -45,5 +45,11 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "bugs": {
+    "url": "https://github.com/Igrokqq/fucker/issues"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
