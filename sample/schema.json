@@ -33,6 +33,6 @@
 	},
 	"updatedAt": {
 		"type": "date",
-		"formatType": "updatedAt"
+		"formatType": "date"
 	}
 }
