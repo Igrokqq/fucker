@@ -4,7 +4,7 @@
   "description": "Provides data generating & seeding to your db :D",
   "main": "lib/index.js",
   "scripts": {
-    "test": "test",
+    "test": "echo ''",
     "start:sample": "node ./sample/index.js"
   },
   "keywords": [
