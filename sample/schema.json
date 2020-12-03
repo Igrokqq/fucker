@@ -1,0 +1,38 @@
+{
+	"username": {
+		"type": "string",
+		"formatType": "fullName"
+	},
+	"password": {
+		"type": "string",
+		"formatType": "password"
+	},
+	"age": {
+		"type": "number",
+		"formatType": "age"
+	},
+	"country": {
+		"type": "string",
+		"formatType": "country"
+	},
+	"city": {
+		"type": "string",
+		"formatType": "city"
+	},
+	"isActive": {
+		"type": "boolean",
+		"formatType": "bool"
+	},
+	"isAdmin": {
+		"type": "boolean",
+		"formatType": "bool"
+	},
+	"createdAt": {
+		"type": "date",
+		"formatType": "createdAt"
+	},
+	"updatedAt": {
+		"type": "date",
+		"formatType": "updatedAt"
+	}
+}
