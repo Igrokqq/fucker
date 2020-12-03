@@ -9,9 +9,23 @@
   },
   "keywords": [
     "faker",
-    "fake-data",
-    "data-to-seed"
+    "seeder",
+    "mongo-seeder",
+    "fast-seed",
+    "fast-seeding",
+    "seeding",
+    "fake data",
+    "mocker",
+    "nodejs",
+    "mongo",
+    "js"
   ],
+  "repository": {
+    "name": "wimmmly",
+    "email": "wimmmly@gmail.com",
+    "url": "https://github.com/Igrokqq/fucker"
+  },
+  "homepage": "https://github.com/Igrokqq/fucker",
   "author": "wimmmly",
   "license": "MIT",
   "dependencies": {
