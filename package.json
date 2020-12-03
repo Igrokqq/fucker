@@ -1,6 +1,10 @@
 {
-  "name": "fucker",
+  "name": "@igrokqqq/fucker",
   "version": "1.0.1",
+  "private": false,
+  "directories": {
+    "lib": "lib"
+  },
   "description": "Provides data generating & seeding to your db :D",
   "main": "lib/index.js",
   "scripts": {
