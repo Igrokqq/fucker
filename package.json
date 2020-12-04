@@ -1,11 +1,11 @@
 {
-  "name": "@igrokqqq/fucker",
+  "name": "@wimmmmly/justin",
   "version": "1.0.1",
   "private": false,
   "description": "Provides data generating & seeding to your db :D",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo ''",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start:sample": "node ./sample/index.js"
   },
   "keywords": [
@@ -22,12 +22,13 @@
     "js"
   ],
   "repository": {
+    "type": "git",
     "name": "wimmmly",
     "email": "wimmmly@gmail.com",
     "url": "git+https://github.com/Igrokqq/fucker.git"
   },
   "homepage": "https://github.com/Igrokqq/fucker",
-  "author": "wimmmly",
+  "author": "wimmmmly",
   "license": "MIT",
   "dependencies": {
     "chance": "1.1.6",
@@ -49,11 +50,5 @@
   },
   "bugs": {
     "url": "https://github.com/Igrokqq/fucker/issues"
-  },
-  "directories": {
-    "lib": "lib"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
