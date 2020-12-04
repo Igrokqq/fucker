@@ -98,3 +98,31 @@ main().catch(console.error);
   * updatedAt
 * Boolean
   * bool
+
+## Performance
+```
+chunk: 465.751ms
+#89 chunkSize 10000
+chunk: 477.125ms
+#90 chunkSize 10000
+chunk: 481.214ms
+#91 chunkSize 10000
+chunk: 405.254ms
+#92 chunkSize 10000
+chunk: 483.662ms
+#93 chunkSize 10000
+chunk: 472.695ms
+#94 chunkSize 10000
+chunk: 418.262ms
+#95 chunkSize 10000
+chunk: 481.651ms
+#96 chunkSize 10000
+chunk: 464.24ms
+#97 chunkSize 10000
+chunk: 450.937ms
+#98 chunkSize 10000
+chunk: 464.019ms
+#99 chunkSize 10000
+chunk: 591.889ms
+generate items start: 51.070s
+ ```
